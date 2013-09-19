@@ -24,7 +24,7 @@ namespace Strategy
         public override void OnTimer(TimeSpan time)
         {
             //if(time >= new TimeSpan(16,0,0))
-            //    log.Debug(time)  test2;
+            //    log.Debug(time)  test3;
         }
 
         /// called when we receive a tick from the datafeed
