@@ -8,7 +8,7 @@ using Common.Logging;
 
 namespace Strategy
 {
-    class Imbalances : StrategyBase
+    public class Imbalances : StrategyBase
     {
         private static readonly ILog log = LogManager.GetCurrentClassLogger();
 
